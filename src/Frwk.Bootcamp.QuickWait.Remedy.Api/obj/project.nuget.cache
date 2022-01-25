@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5SjDHvsxNBizcuJ6hV9PVfHD32f3X2OUUpPQarUHrkF9pewOeAj06lOGL+VAL1WxX0pnH16vn832FlF7Z3c/kw==",
+  "success": true,
+  "projectFilePath": "C:\\git\\frmw\\quickwait\\Frwk.Bootcamp.QuickWait.Remedy\\src\\Frwk.Bootcamp.QuickWait.Remedy.Api\\Frwk.Bootcamp.QuickWait.Remedies.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
