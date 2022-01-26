@@ -1,2 +1,2 @@
 # Frwk.Bootcamp.QuickWait.Remedy
-Projeto Quick Wait - Micro Serviço de Remédios
+Projeto Quick Wait - Microsserviço de Remédios
